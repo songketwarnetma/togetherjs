@@ -324,6 +324,8 @@
       "es-BO": true,
       "ru": true,
       "ru-RU": "ru",
+      "id": true,
+      "id-ID": "id",
       "pl": "pl-PL",
       "pl-PL": true
     };
